@@ -1,4 +1,4 @@
-Hello! welcome to my GitHub page :)
+Hello! Welcome to my GitHub page :)
 
 Some of my projects are private but the ones that do not have restrictions I have made publicly available here!
 
